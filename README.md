@@ -6,3 +6,6 @@
 2. 워드 리스트를 생성합니다
 3. 워드클라우드를 만듭니다
 4. 완료!
+
+https://konlpy-ko.readthedocs.io/ko/v0.4.3/
+https://pypi.org/project/wordcloud/
